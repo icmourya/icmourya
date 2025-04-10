@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @icmourya
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding projects
+- 👀 Competitive programmer
 - 📫 How to reach me icm961625@gmail.com
 
 <!---
